@@ -1,0 +1,97 @@
+.primary{
+    color:#1A8F6F; 
+    text-align: center;
+ }
+ 
+ .input{
+    margin-left:200px ;
+ }
+
+ .form{
+    margin-top:100px;
+    background:#DAA9C4;
+    width:560px;
+    margin-left: 500px;
+ }
+
+ .content{
+    background-color: #1A8F6F;
+    width:560px;
+  
+    margin-left: 500px;
+    
+  
+ }
+
+ 
+
+
+ .h3{
+    color:white;
+    margin-left: 200px;
+   
+ }
+
+
+
+
+.buttond {
+  background-color: #DAA9C4;
+  border-radius: 4px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  font-weight: 300;
+  height: 30px;
+  line-height: 15px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 8px 14px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-left:165px
+}
+
+.buttone {
+    background-color: #DAA9C4;
+    border-radius: 4px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 10px;
+    font-weight: 300;
+    height: 30px;
+    line-height: 15px;
+    list-style: none;
+    margin: 0;
+    outline: none;
+    padding: 8px 14px ;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: color 100ms;
+    vertical-align: baseline;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    
+
+    margin-left:20px;
+  }
+    
+
+ 
